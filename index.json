@@ -1,33 +1,32 @@
 [
-{
-  "name": "Nyaa.si",
-  "id": "nyaa",
-  "version": "0.0.1",
-  "type": "torrent",
-  "accuracy": "medium",
-  "ratio": 0,
-  "media": "sub",
-  "languages": [
-    "US"
-  ],
-  "icon": "https://nyaa.si/static/favicon.png",
-  "update": "gh:JayHzn/extensions",
-  "code": "gh:JayHzn/extensions/nyaa"
-},
-{
-  "name": "SubsPlease",
-  "id": "subsplease",
-  "version": "0.0.1",
-  "type": "torrent",
-  "accuracy": "medium",
-  "ratio": 0,
-  "media": "sub",
-  "languages": [
-    "US"
-  ],
-  "icon": "",
-  "update": "gh:JayHzn/extensions",
-  "code": "gh:JayHzn/extensions/subsplease"
-}
-
+  {
+    "name": "Nyaa",
+    "id": "nyaa",
+    "version": "0.0.1",
+    "type": "torrent",
+    "accuracy": "medium",
+    "ratio": 0,
+    "media": "sub",
+    "languages": [
+      "US"
+    ],
+    "icon": "https://nyaa.si/static/favicon.png",
+    "update": "gh:JayHzn/extensions",
+    "code": "gh:JayHzn/extensions/nyaa"
+  },
+  {
+    "name": "SubsPlease",
+    "id": "subsplease",
+    "version": "0.0.1",
+    "type": "torrent",
+    "accuracy": "medium",
+    "ratio": 0,
+    "media": "sub",
+    "languages": [
+      "US"
+    ],
+    "icon": "",
+    "update": "gh:JayHzn/extensions",
+    "code": "gh:JayHzn/extensions/subsplease"
+  }
 ]
