@@ -1,4 +1,3 @@
-// subsplease.js
 import AbstractSource from './abstract.js'
 
 const RSS_BASE = 'https://subsplease.org/rss/?t&r='
