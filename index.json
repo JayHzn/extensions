@@ -45,13 +45,18 @@
     "code": "gh:hayase-app/extensions/animetosho-nzb"
   },
   {
-  "name": "SubsPlease",
-  "id": "subsplease.yuji",
-  "version": "1.0.0",
-  "description": "Stream anime via SubsPlease torrents",
-  "author": "Yuji",
-  "language": "en",
-  "type": "js",
-  "entry": "extension.js"
+    "name": "SubsPlease",
+    "id": "subsplease",
+    "version": "0.0.1",
+    "type": "torrent",
+    "accuracy": "high",
+    "ratio": 0,
+    "media": "sub",
+    "description": "Stream anime via SubsPlease torrents",
+    "languages": [
+      "US"
+    ],
+    "update": "gh:JayHzn/extensions",
+    "code": "gh:JayHzn/extensions/subsplease"
   }
 ]
